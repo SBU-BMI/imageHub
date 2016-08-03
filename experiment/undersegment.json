@@ -1,0 +1,19 @@
+{
+    "generator": "4.5.0-2016-07-28",
+    "layers": [
+        {
+            "algorithm": "Yi",
+            "curvatureWeight": 8.0,
+            "file": "TCGA-94-8490-01Z-00-DX1_42483_42801_500_500_LUSC_gray-label.tif",
+            "kernelSize": 20.0,
+            "label": "Nucleus",
+            "mpp": 0.25,
+            "otsuRatio": 0.6000000000000001,
+            "sizeThld": 3.0,
+            "sizeUpperThld": 50.0
+        }
+    ],
+    "sourcetile": "TCGA-94-8490-01Z-00-DX1_42483_42801_500_500_LUSC_gray",
+    "timestamp": "20160803171017",
+    "username": "SuperBear"
+}

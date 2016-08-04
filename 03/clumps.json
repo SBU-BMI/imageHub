@@ -1,0 +1,19 @@
+{
+    "generator": "4.5.0-2016-07-30",
+    "layers": [
+        {
+            "algorithm": "Yi",
+            "curvatureWeight": 8.0,
+            "file": "TCGA-49-AARN-01Z-00-DX1_27431_28176_500_500_LUAD_gray-label.tif",
+            "kernelSize": 20.0,
+            "label": "Nucleus",
+            "mpp": 0.25,
+            "otsuRatio": 1.0,
+            "sizeThld": 18.5,
+            "sizeUpperThld": 300.0
+        }
+    ],
+    "sourcetile": "TCGA-49-AARN-01Z-00-DX1_27431_28176_500_500_LUAD_gray",
+    "timestamp": "20160804155646",
+    "username": ""
+}

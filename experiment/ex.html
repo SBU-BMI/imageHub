@@ -26,23 +26,75 @@
     <h4>TCGA-94-8490-01Z-00-DX1_42483_42801_500_500_LUSC.png</h4>
     <table class="table table-bordered">
         <tr>
-            <th>"original"</th>
+
             <th>"clumps"</th>
             <th>"just-right"</th>
             <th>"undersegment"</th>
+            <th>"original"</th>
         </tr>
         <tr>
-            <td><img src="../lung-NSCLC/training-set/TCGA-94-8490-01Z-00-DX1_42483_42801_500_500_LUSC.png" width="250"
-                     height="250"></td>
             <td><img src="clumps.png" width="250" height="250"></td>
             <td><img src="just-right.png" width="250" height="250"></td>
             <td><img src="undersegment.png" width="250" height="250"></td>
+            <td><img src="../lung-NSCLC/training-set/TCGA-94-8490-01Z-00-DX1_42483_42801_500_500_LUSC.png" width="250"
+                     height="250"></td>
         </tr>
         <tr>
+            <td><a href="clumps.csv">features clumps.csv</a></td>
+            <td><a href="just-right.csv">features just-right.csv</a></td>
+            <td><a href="undersegment.csv">features undersegment.csv</a></td>
             <td></td>
-            <td><a href="clumps.csv">clumps.csv</a></td>
-            <td><a href="just-right.csv">just-right.csv</a></td>
-            <td><a href="undersegment.csv">undersegment.csv</a></td>
+        </tr>
+        <tr>
+
+            <td>
+<pre>
+    "parameters": [
+        {
+            "algorithm": "Yi",
+            "curvatureWeight": 8.0,
+            "kernelSize": 20.0,
+            "mpp": 0.25,
+            "otsuRatio": 1.0,
+            "sizeThld": 24.3,
+            "sizeUpperThld": 402.0
+        }
+    ]
+</pre>
+
+            </td>
+            <td>
+<pre>
+    "parameters": [
+        {
+            "algorithm": "Yi",
+            "curvatureWeight": 8.0,
+            "kernelSize": 20.0,
+            "mpp": 0.25,
+            "otsuRatio": 1.0,
+            "sizeThld": 3.0,
+            "sizeUpperThld": 50.0
+        }
+    ]
+</pre>
+
+            </td>
+            <td>
+<pre>
+    "parameters": [
+        {
+            "algorithm": "Yi",
+            "curvatureWeight": 8.0,
+            "kernelSize": 20.0,
+            "mpp": 0.25,
+            "otsuRatio": 0.6000000000000001,
+            "sizeThld": 3.0,
+            "sizeUpperThld": 50.0
+        }
+    ]
+</pre>
+            </td>
+            <td></td>
         </tr>
     </table>
 </div>

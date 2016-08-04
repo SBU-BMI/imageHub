@@ -23,27 +23,27 @@
 <body>
 <div class="container">
     <h2>Experiments</h2>
-    <h3>with TCGA-94-8490-01Z-00-DX1_42483_42801_500_500_LUSC.png</h3>
+    <h3>with TCGA-05-4244-01Z-00-DX1_19500_19500_500_500_LUAD.png</h3>
     <table class="table table-bordered">
         <tr>
 
             <th>"clumps"</th>
             <th>"just-right"</th>
             <th>"undersegment"</th>
-            <th>"original"</th>
+            <th>"original" (student segmented)</th>
         </tr>
         <tr>
             <td><a href="clumps.png" target="_blank"><img src="clumps.png" width="250" height="250"></a></td>
             <td><a href="just-right.png" target="_blank"><img src="just-right.png" width="250" height="250"></a></td>
             <td><a href="undersegment.png" target="_blank"><img src="undersegment.png" width="250" height="250"></a></td>
-            <td><a href="../lung-NSCLC/training-set/TCGA-94-8490-01Z-00-DX1_42483_42801_500_500_LUSC.png" target="_blank"><img src="../lung-NSCLC/training-set/TCGA-94-8490-01Z-00-DX1_42483_42801_500_500_LUSC.png" width="250"
+            <td><a href="TCGA-05-4244-01Z-00-DX1_19500_19500_500_500_LUAD_poly.png" target="_blank"><img src="TCGA-05-4244-01Z-00-DX1_19500_19500_500_500_LUAD_poly.png" width="250"
                      height="250"></a></td>
         </tr>
         <tr>
             <td><a href="clumps.csv">features clumps.csv</a></td>
             <td><a href="just-right.csv">features just-right.csv</a></td>
             <td><a href="undersegment.csv">features undersegment.csv</a></td>
-            <td></td>
+            <td><!--<a href="http://sbu-bmi.github.io/FeatureScapeApps/featurescape/?http://quip1.bmi.stonybrook.edu:4000?limit=1000&find={%22randval%22:{%22$gte%22:0.882712442072371},%22provenance.analysis.execution_id%22:%22luad:bg:20160520%22,%22provenance.image.case_id%22:%22TCGA-94-8490-01Z-00-DX1%22}&db=u24_luad&c=luad" target="_blank">FeatureScape!</a>--></td>
         </tr>
         <tr>
 
@@ -56,8 +56,8 @@
             "kernelSize": 20.0,
             "mpp": 0.25,
             "otsuRatio": 1.0,
-            <font color="red">sizeThld": 24.3,</font>
-            <font color="red">"sizeUpperThld": 402.0</font>
+            <font color="red">"sizeThld": 16.900000000000002,</font>
+            <font color="red">"sizeUpperThld": 274.0</font>
         }
     ]
 </pre>

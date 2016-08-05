@@ -1,0 +1,19 @@
+{
+    "generator": "4.5.0-2016-07-28",
+    "layers": [
+        {
+            "algorithm": "Yi",
+            "curvatureWeight": 8.0,
+            "file": "TCGA-NC-A5HG-01Z-00-DX1_46105_47770_500_500_LUSC_gray-label.tif",
+            "kernelSize": 20.0,
+            "label": "Nucleus",
+            "mpp": 0.25,
+            "otsuRatio": 0.6,
+            "sizeThld": 3.0,
+            "sizeUpperThld": 50.0
+        }
+    ],
+    "sourcetile": "TCGA-NC-A5HG-01Z-00-DX1_46105_47770_500_500_LUSC_gray",
+    "timestamp": "20160805155741",
+    "username": ""
+}

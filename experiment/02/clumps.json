@@ -1,5 +1,5 @@
 {
-    "generator": "4.5.0-2016-07-30",
+    "generator": "4.5.0-2016-07-28",
     "layers": [
         {
             "algorithm": "Yi",
@@ -8,12 +8,12 @@
             "kernelSize": 20.0,
             "label": "Nucleus",
             "mpp": 0.25,
-            "otsuRatio": 1.0,
-            "sizeThld": 16.900000000000002,
-            "sizeUpperThld": 274.0
+            "otsuRatio": 0.8,
+            "sizeThld": 6.0,
+            "sizeUpperThld": 100.0
         }
     ],
     "sourcetile": "TCGA-05-4244-01Z-00-DX1_19500_19500_500_500_LUAD_gray",
-    "timestamp": "20160804145904",
+    "timestamp": "20160807172340",
     "username": ""
 }

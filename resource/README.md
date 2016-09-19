@@ -1,5 +1,7 @@
-2016-09-19-11-48-34
-128 csv files
+2016-09-19-15-32-08
+
+There are 128 files, explained below:
+
 
 There are 16 LGG (human-segmented) csv files.  8 LGG csv's are computed with Yi's algorithm, and 8 are computed with Jun's algorithm.
 
@@ -8,7 +10,7 @@ name-of-patch_x_y_w_h-TUMOR-what-kind-of-segmentation-algorithm.csv
 TCGA-CS-4938-01Z-00-DX1_12560_47520_500_500_LGG-human-yi.csv
 
 
-There are 16 lung (human-segmented) csv files (8 LUSC, 8 LUAD).  They will also look like this:
+There are 16 lung (human-segmented) csv files (8 computed with Yi's algorithm, and 8 are computed with Jun's algorithm).  They will also look like this:
 name-of-patch_x_y_w_h-TUMOR-what-kind-of-segmentation-algorithm.csv
 TCGA-05-4244-01Z-00-DX1_19500_19500_500_500_LUAD-human-yi.csv
 

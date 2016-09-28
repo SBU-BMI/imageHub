@@ -35,3 +35,9 @@ The names will look like this:
 name-of-patch_x_y_w_h-TUMOR-what-kind-of-segmentation-algorithm-segmenter.csv
 TCGA-05-4244-01Z-00-DX1_19500_19500_500_500_LUAD-clumps-yi-mary.csv
 
+<hr>
+
+2016-09-28-16-25-54
+Re-ran Mary segmentations, 48 files.
+24 with Yi's algorithm.
+24 with Jun's algorithm.

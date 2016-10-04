@@ -41,3 +41,8 @@ TCGA-05-4244-01Z-00-DX1_19500_19500_500_500_LUAD-clumps-yi-mary.csv
 Re-ran Mary segmentations, 48 files.
 24 with Yi's algorithm.
 24 with Jun's algorithm.
+
+2016-10-04-11-17-15
+Added Joel segmentations, 48 files.
+24 with Yi's algorithm.
+24 with Jun's algorithm.

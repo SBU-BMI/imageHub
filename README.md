@@ -1,4 +1,4 @@
-## View csv files
+## View CSV files
 https://sbu-bmi.github.io/imageHub/<br>
 or<br>
 https://github.com/SBU-BMI/imageHub/tree/gh-pages/resource

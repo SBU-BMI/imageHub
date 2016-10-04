@@ -46,3 +46,8 @@ Re-ran Mary segmentations, 48 files.
 Added Joel segmentations, 48 files.
 24 with Yi's algorithm.
 24 with Jun's algorithm.
+
+2016-10-04-11-52-06
+Added Anne segmentations, 48 files.
+24 with Yi's algorithm.
+24 with Jun's algorithm.

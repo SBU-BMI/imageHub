@@ -1,4 +1,4 @@
-## Wiki
+## Wiki/Dictionary
 https://github.com/SBU-BMI/imageHub/wiki
 
 ## Experiments

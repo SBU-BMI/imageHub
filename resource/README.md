@@ -14,6 +14,7 @@ There are 16 lung (human-segmented) csv files (8 computed with Yi's algorithm, a
 name-of-patch_x_y_w_h-TUMOR-what-kind-of-segmentation-algorithm.csv
 TCGA-05-4244-01Z-00-DX1_19500_19500_500_500_LUAD-human-yi.csv
 
+There are 16 LGG (human-segmented) csv files (8 computed with Yi's algorithm, and 8 are computed with Jun's algorithm).
 
 There are 48 lung "experiment" csv files.  These (that I will describe now) are the original experiments, done by Tammy.
 24 csv are run through Yi's algorithm, and 24 are run through Jun's algorithm.
@@ -25,7 +26,7 @@ name-of-patch_x_y_w_h-TUMOR-what-kind-of-segmentation-algorithm.csv
 TCGA-05-4244-01Z-00-DX1_19500_19500_500_500_LUAD-clumps-yi.csv
 
 
-And finally, there are There are 48 lung "experiment" csv files, done by Mary.
+There are 48 lung "experiment" csv files, done by Mary.
 
 24 csv are run through Yi's algorithm, and 24 are run through Jun's algorithm.
 Out of each set of 24, naturally, 12 are LUAD, and 12 are LUSC.
